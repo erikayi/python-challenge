@@ -27,6 +27,6 @@ print ('-----------------------------------------')
 print ('Election Results')
 print ('-----------------------------------------')
 print ('Total # Of Votes Cast: ', format(row_count))
-print ('Complete List Of Candidates: ', 'Percentage Of Votes Received: ', 'Total Number Of Votes Received: ')
+print ('List Of Candidates: ', list(Candidate)), 'Percentage Of Votes Received: ', 'Total Number Of Votes Received: ')
 print ('Winner Of The Election: ')
 
